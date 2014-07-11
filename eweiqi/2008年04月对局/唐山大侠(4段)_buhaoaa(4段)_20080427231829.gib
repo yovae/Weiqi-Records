@@ -1,0 +1,29 @@
+\HS
+\[TYPE=0\]
+\[SZAUDIO=0\]
+\[GAMENAME=升降级对局\]
+\[GAMEDATE=2008年 4月27日 23:18:29\]
+\[GAMEPLACE=弈城TYGEM对弈\]
+\[GAMECONDITION=分先：黑贴6目半\]
+\[GAMETIME=每方限时: 无\]
+\[GAMEWHITENAME=唐山大侠(4段)\]
+\[GAMEBLACKNAME=buhaoaa(4段)\]
+\[GAMERESULT=\]
+\[GAMETOTALNUM=总 5手\]
+\[GAMECOMMENT=\]
+\[GAMEWHITENICK=acdertyu\]
+\[GAMEWHITECOUNTRY=2\]
+\[GAMEBLACKNICK=buhaoaa\]
+\[GAMEBLACKCOUNTRY=2\]
+\[GAMETAG=S0,R0,D0,G65,W255,Z0,T30-3-0,C2008:04:27:23:18,I:唐山大侠,L:21,M:buhaoaa,N:21,A:acdertyu,B:buhaoaa,J:2,K:2\]
+\HE
+\GS
+2 1 0
+6 0 &4
+INI 0 1 0 &4在56房间正在进行对局准备。 
+STO 0 2 1 15 3 
+STO 0 3 2 3 15 
+STO 0 4 1 15 15 
+STO 0 5 2 3 2 
+STO 0 6 1 3 4 
+\GE

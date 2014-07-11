@@ -1,0 +1,21 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[0]OT[3x30 byo-yomi]
+PW[anglelll]PB[iwas2d]WR[2d]DT[2010-04-11]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+Resign]
+;B[pd]BL[30]OB[3]
+;W[dp]WL[30]OW[3]C[iwas2d: hi
+]
+;B[pq]BL[30]OB[3]
+;W[dd]WL[30]OW[3]
+;B[fq]BL[30]OB[3]C[anglelll [2d\]: hi
+]
+;W[po]WL[30]OW[3]C[iwas2d: hi
+]
+;B[np]BL[30]OB[3]
+;W[kp]WL[30]OW[3]
+;B[nn]BL[30]OB[3]
+;W[hq]WL[30]OW[3]
+;B[fo]BL[30]OB[3]
+;W[dn]WL[30]OW[3]
+;B[ho]BL[30]OB[3]
+;W[eq]WL[30]OW[3]
+;B[fr]BL[30]OB[3])

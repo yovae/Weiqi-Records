@@ -1,0 +1,152 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[60]OT[25/120 Canadian]
+PW[jack]PB[anglelll]WR[2d]BR[2d]DT[2007-06-30]PC[The KGS Go Server at http://www.gokgs.com/]C[jack [2d\]: hi
+]RE[W+Time]
+;B[pd]BL[55.542]
+;W[qp]WL[58.302]C[anglelll [2d\]: hi
+]
+;B[cd]BL[43.773]
+;W[cp]WL[57.2]
+;B[ep]BL[42.11]
+;W[eq]WL[55.614]
+;B[fq]BL[41.273]
+;W[dq]WL[54.876]
+;B[op]BL[37.817]
+;W[oq]WL[53.812]
+;B[nq]BL[36.184]
+;W[pq]WL[53.246]
+;B[np]BL[34.812]
+;W[qn]WL[52.433]
+;B[fp]BL[32.999]
+;W[cn]WL[51.808]
+;B[jp]BL[32.158]
+;W[jc]WL[50.265]
+;B[fc]BL[29.202]
+;W[nc]WL[48.493]
+;B[qf]BL[27.377]
+;W[pc]WL[47.255]
+;B[qc]BL[24.49]
+;W[qb]WL[46.558]
+;B[qd]BL[23.478]
+;W[ob]WL[44.537]
+;B[cj]BL[16.288]
+;W[qh]WL[38.064]
+;B[nf]BL[9.863]
+;W[dc]WL[28.432]
+;B[cc]BL[119.778]OB[24]
+;W[dd]WL[24.902]
+;B[de]BL[117.174]OB[23]
+;W[ed]WL[20.923]
+;B[hc]BL[107.482]OB[22]
+;W[ee]WL[15.375]
+;B[df]BL[106.506]OB[21]
+;W[he]WL[12.752]
+;B[db]BL[104.616]OB[20]
+;W[eb]WL[7.754]
+;B[cb]BL[102.158]OB[19]
+;W[ec]WL[7.085]
+;B[ef]BL[95.548]OB[18]
+;W[ge]WL[4.959]
+;B[qj]BL[88.282]OB[17]
+;W[pi]WL[0.37]
+;B[ql]BL[77.869]OB[16]
+;W[qm]WL[118.495]OW[24]
+;B[ok]BL[74.436]OB[15]
+;W[ni]WL[117.328]OW[23]
+;B[oh]BL[71.952]OB[14]
+;W[oi]WL[116.084]OW[22]
+;B[mk]BL[64.922]OB[13]
+;W[nh]WL[114.37]OW[21]
+;B[lf]BL[57.999]OB[12]
+;W[kh]WL[110.838]OW[20]
+;B[kc]BL[54.057]OB[11]
+;W[kd]WL[108.203]OW[19]
+;B[jb]BL[51.386]OB[10]
+;W[lc]WL[107.186]OW[18]
+;B[kb]BL[50.146]OB[9]
+;W[jd]WL[102.802]OW[17]
+;B[lb]BL[48.094]OB[8]
+;W[mb]WL[101.35]OW[16]
+;B[ld]BL[46.677]OB[7]
+;W[mc]WL[100.456]OW[15]
+;B[ic]BL[41.663]OB[6]
+;W[ha]WL[82.694]OW[14]
+;B[ie]BL[34.549]OB[5]
+;W[id]WL[78.251]OW[13]
+;B[hd]BL[33.05]OB[4]
+;W[if]WL[74.757]OW[12]
+;B[fb]BL[28.055]OB[3]
+;W[fa]WL[73.161]OW[11]
+;B[je]BL[23.116]OB[2]
+;W[ke]WL[71.508]OW[10]
+;B[jf]BL[21.795]OB[1]
+;W[kf]WL[67.613]OW[9]
+;B[jg]BL[120]OB[25]
+;W[kg]WL[66.071]OW[8]
+;B[ig]BL[98.17]OB[24]
+;W[gd]WL[56.516]OW[7]
+;B[ia]BL[80.9]OB[23]
+;W[gg]WL[46.387]OW[6]
+;B[gh]BL[77.985]OB[22]
+;W[hg]WL[43.134]OW[5]
+;B[ji]BL[73.971]OB[21]
+;W[hh]WL[37.987]OW[4]
+;B[ii]BL[65.569]OB[20]
+;W[ki]WL[24.758]OW[3]
+;B[hi]BL[62.391]OB[19]
+;W[fh]WL[23.6]OW[2]
+;B[gi]BL[58.964]OB[18]
+;W[fg]WL[17.515]OW[1]
+;B[kj]BL[50.879]OB[17]
+;W[fi]WL[120]OW[25]
+;B[fj]BL[48.775]OB[16]
+;W[ej]WL[118.016]OW[24]
+;B[ei]BL[45.416]OB[15]
+;W[di]WL[113.487]OW[23]
+;B[eh]BL[41.005]OB[14]
+;W[eg]WL[112.45]OW[22]
+;B[dh]BL[40.06]OB[13]
+;W[dg]WL[111.858]OW[21]
+;B[ch]BL[39.316]OB[12]
+;W[cg]WL[111.26]OW[20]
+;B[bf]BL[29.448]OB[11]
+;W[bg]WL[104.576]OW[19]
+;B[bh]BL[24.587]OB[10]
+;W[cf]WL[102.597]OW[18]
+;B[be]BL[17.959]OB[9]
+;W[ce]WL[98.624]OW[17]
+;B[rg]BL[12.906]OB[8]
+;W[rh]WL[96.71]OW[16]
+;B[le]BL[7.119]OB[7]
+;W[qg]WL[86.76]OW[15]
+;B[rf]BL[3.763]OB[6]
+;W[of]WL[57.438]OW[14]
+;B[oe]BL[1.002]OB[5]
+;W[pf]WL[56.727]OW[13]C[jack [2d\]: thx
+anglelll [2d\]: ?
+jack [2d\]: hi paul
+aegis [7k\]: hi hows life
+jack [2d\]: pretty good thx, and you
+aegis [7k\]: not too bad
+jack [2d\]: flying to perth tonight, got an interview next week
+aegis [7k\]: doing?
+jack [2d\]: systems analysis
+aegis [7k\]: good luck
+jack [2d\]: thx
+aegis [7k\]: all that way for an interview?
+jack [2d\]: just going to watch the rugby then go to the airport :)
+jack [2d\]: making a holiday of it as well
+aegis [7k\]: might as well
+jack [2d\]: going for a fortnight
+jack [2d\]: just seemed like a good opportunity to grab
+aegis [7k\]: at least its no wet there :)
+jack [2d\]: :)
+jack [2d\]: weve had serious flooding here this week
+aegis [7k\]: must be globular warming
+jack [2d\]: :(
+jack [2d\]: fancy a game?
+aegis [7k\]: at least it adds to the availability of material to support 75% of our bidies
+jack [2d\]: lol :)
+aegis [7k\]: bodies
+aegis [7k\]: ok
+])

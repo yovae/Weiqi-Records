@@ -1,0 +1,356 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[300]OT[3x30 byo-yomi]
+PW[lll9p]PB[dounde]WR[4d]BR[1d]DT[2010-03-31]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp][pp]C[dounde [1d\]: hi
+dounde [1d\]: its about sanreisei
+]RE[W+Time]
+(;W[ed]WL[296.094]C[lll9p [4d\]: hi gg
+]
+;B[jp]BL[294.06]
+;W[dm]WL[292.127]
+;B[cj]BL[277.085]
+;W[ch]WL[282.677]
+;B[cd]BL[268.966]
+;W[cc]WL[258.249]
+;B[dc]BL[217.393]
+;W[dd]WL[255.657]
+;B[cb]BL[207.165]
+;W[bc]WL[253.4]
+;B[ec]BL[203.132]
+;W[ce]WL[251.681]
+;B[bb]BL[194.283]
+;W[bd]WL[249.994]
+;B[fc]BL[192.01]
+;W[fq]WL[244.5]
+;B[eo]BL[184.984]
+;W[cq]WL[238.786]
+;B[dq]BL[182.442]
+;W[dr]WL[237.378]
+;B[er]BL[177.77]
+;W[cr]WL[234.058]
+;B[eq]BL[175.624]
+;W[co]WL[231.214]
+;B[cp]BL[169.52]
+;W[bp]WL[229.695]
+;B[bq]BL[166.764]
+;W[bo]WL[224.653]
+;B[br]BL[164.822]
+;W[dk]WL[222.94]
+;B[fd]BL[153.69]
+;W[nc]WL[215.261]
+;B[kc]BL[143.138]
+;W[qf]WL[211.963]
+;B[pf]BL[135.267]
+;W[pg]WL[209.903]
+;B[of]BL[132.99]
+;W[qd]WL[206.808]
+;B[qe]BL[130.482]
+;W[re]WL[205.494]
+;B[pe]BL[128.865]
+;W[rg]WL[203.924]
+;B[qc]BL[121.893]
+;W[rd]WL[202.416]
+;B[og]BL[119.558]
+;W[ph]WL[200.861]
+;B[rc]BL[117.441]
+;W[qn]WL[196.261]
+;B[pn]BL[102.614]
+;W[pm]WL[194.45]
+;B[on]BL[100.495]
+;W[qo]WL[189.706]
+;B[qp]BL[98.69]
+;W[lq]WL[187.192]
+;B[nq]BL[89.213]
+;W[jq]WL[185.221]
+;B[iq]BL[87.563]
+;W[ir]WL[183.658]
+;B[kq]BL[59.673]
+;W[jr]WL[179.447]
+;B[kr]BL[58.058]
+;W[ip]WL[177.729]
+;B[kp]BL[42.829]
+;W[hq]WL[174.968]
+;B[om]BL[24.288]
+;W[pl]WL[172.579]
+;B[oh]BL[30]OB[3]
+;W[ob]WL[170.377]
+;B[pb]BL[30]OB[3]
+;W[lc]WL[165.73]
+;B[kd]BL[30]OB[3]
+;W[me]WL[163.239]
+;B[pi]BL[30]OB[3]
+;W[qi]WL[161.133]
+;B[qh]BL[30]OB[3]
+;W[qg]WL[159.604]
+;B[qj]BL[30]OB[3]
+;W[ri]WL[155.557]
+;B[pj]BL[30]OB[3]
+;W[rk]WL[151.207]
+;B[ld]BL[30]OB[3]
+;W[md]WL[149.208]
+;B[lb]BL[30]OB[3]
+;W[lf]WL[141.336]
+;B[mc]BL[30]OB[3]
+;W[mb]WL[139.5]
+;B[dj]BL[30]OB[3]
+;W[ek]WL[135.305]
+;B[dh]BL[30]OB[3]
+;W[dg]WL[133.087]
+;B[eh]BL[30]OB[3]
+;W[lc]WL[128.325]
+;B[eg]BL[30]OB[3]
+;W[cg]WL[124.581]
+;B[ej]BL[30]OB[3]
+;W[ni]WL[119.906]
+;B[oi]BL[30]OB[3]
+;W[nk]WL[113.703]
+;B[qk]BL[30]OB[3]
+;W[rl]WL[108.617]
+;B[mh]BL[30]OB[3]
+;W[mi]WL[104.703]
+;B[mg]BL[30]OB[3]
+;W[kh]WL[100.815]
+;B[mf]BL[30]OB[3]
+;W[le]WL[98.157]
+;B[nh]BL[30]OB[3]
+;W[od]WL[91.513]
+;B[pc]BL[30]OB[2]
+;W[nf]WL[89.328]
+;B[li]BL[30]OB[2]
+;W[lh]WL[86.988]
+;B[lj]BL[30]OB[2]
+;W[mk]WL[84.066]
+;B[lg]BL[30]OB[2]
+;W[kg]WL[82.205]
+;B[kf]BL[30]OB[2]
+;W[ke]WL[79.211]
+;B[jf]BL[30]OB[2]
+;W[je]WL[78.13]
+;B[if]BL[30]OB[2]
+;W[ji]WL[74.127]
+;B[ic]BL[30]OB[2]
+;W[kb]WL[68.941]
+;B[mc]BL[30]OB[2]
+;W[la]WL[67.347]
+;B[jb]BL[30]OB[2]
+;W[lc]WL[65.342]
+;B[lk]BL[30]OB[2]
+;W[jk]WL[46.96]
+;B[ol]BL[30]OB[2]
+;W[ll]WL[37.555]
+;B[kl]BL[30]OB[2]
+;W[kk]WL[35.789]
+;B[ml]BL[30]OB[2]
+;W[lm]WL[33.286]
+;B[nl]BL[30]OB[2]
+;W[lr]WL[27.104]
+;B[lp]BL[30]OB[2]
+;W[ks]WL[24.753]
+;B[mq]BL[30]OB[2]
+;W[jm]WL[22.893]
+;B[il]BL[30]OB[2]
+;W[jl]WL[21.243]
+;B[bl]BL[30]OB[2]
+;W[gk]WL[13.551]
+;B[fk]BL[30]OB[2]
+;W[fl]WL[11.542]
+;B[fj]BL[30]OB[2]
+;W[hd]WL[30]OW[3]
+;B[el]BL[30]OB[2]
+;W[em]WL[30]OW[3]
+;B[dn]BL[30]OB[2]
+;W[cm]WL[30]OW[3]
+;B[cn]BL[30]OB[2]
+;W[bm]WL[30]OW[3]
+;B[fe]BL[30]OB[1]
+;W[hf]WL[30]OW[3]
+;B[hg]BL[30]OB[1]
+;W[gf]WL[30]OW[3]
+;B[gg]BL[30]OB[1]
+;W[ig]WL[30]OW[3]
+;B[ff]BL[30]OB[1]
+;W[ie]WL[30]OW[3]
+;B[mr]BL[30]OB[1]C[dounde [1d\]: can i have control
+]
+;W[ar]WL[30]OW[3]
+;B[aq]BL[30]OB[1]
+;W[bs]WL[30]OW[3]
+;B[as]BL[30]OB[1]
+;W[ok]WL[30]OW[3]
+;B[pk]BL[30]OB[1]
+;W[ar]WL[30]OW[3]C[lll9p [4d\]: tx
+dounde [1d\]: tks
+dounde [1d\]: can i ask u something please
+lll9p [4d\]: you can
+])
+(;W[dd]
+;B[jp]
+;W[cn]C[lll9p [4d\]: I played baddly
+]
+;B[ck]C[dounde [1d\]: what do u know about this pince
+]
+(;W[cq])
+(;W[fp]C[lll9p [4d\]: this in C3 
+]
+(;B[dn]C[lll9p [4d\]: D6 is good
+lll9p [4d\]: D6 in F5?
+dounde [1d\]: remember here ther was an handicapstone
+lll9p [4d\]: yes
+]
+(;W[dq]C[lll9p [4d\]: C5
+dounde [1d\]: what happen here?
+lll9p [4d\]: may be B B6 should be F5
+]
+(;B[co]
+;W[cq])
+(;B[cq]C[dounde [1d\]: and if this?
+lll9p [4d\]: D7
+dounde [1d\]: c4? u mean
+lll9p [4d\]: back 
+]
+(;W[dm]
+;B[en]C[lll9p [4d\]: C5
+lll9p [4d\]: D7 in C3?
+]
+;W[co]
+;B[cp]C[lll9p [4d\]: well its not good for W
+])
+(;W[cp]
+;B[co]C[lll9p [4d\]: no
+])
+(;W[eq]C[lll9p [4d\]: D6
+lll9p [4d\]: should C5
+]
+(;B[cp]
+;W[hq]C[lll9p [4d\]: C4 is bad
+])
+(;B[co]
+;W[cr]C[lll9p [4d\]: B will play other place
+dounde [1d\]: and so whats state u give to this? 
+dounde [1d\]: whats your feeling?
+dounde [1d\]: so here its white turn
+]
+;B[fc]C[lll9p [4d\]: B is good
+]))))
+(;W[cq]C[dounde [1d\]: what  do u think about
+]
+;B[dq]
+;W[cp]
+;B[co]
+;W[bo]
+;B[do]C[lll9p [4d\]: B6
+]
+;W[bn]C[lll9p [4d\]: what about this
+]
+;B[dm]C[lll9p [4d\]: W will escape
+dounde [1d\]: its looks correct wite can try but later, and few points...dont knoiw
+lll9p [4d\]: G6
+]
+;W[gn]C[dounde [1d\]: its soon probably
+]
+;B[hp]C[lll9p [4d\]: hmmm
+]))
+(;B[fo]C[dounde [1d\]: dont know so lets try
+lll9p [4d\]: G5 ?
+]
+(;W[ep]
+;B[eo]
+;W[dq]
+;B[cq]
+;W[cp]
+;B[do]
+;W[cr]
+;B[bq]
+;W[br]C[lll9p [4d\]: too bad for W
+])
+(;W[cq])
+(;W[go]
+;B[eo]C[lll9p [4d\]: then C3
+]
+;W[cq]
+;B[cp]
+;W[dq]
+;B[eq]C[lll9p [4d\]: E4
+]
+;W[ep]C[lll9p [4d\]: wait a minut
+dounde [1d\]: yeah
+]
+(;B[er]C[lll9p [4d\]: G4
+]
+;W[gp]
+(;B[bq]C[lll9p [4d\]: D5
+]
+;W[do]C[lll9p [4d\]: oh it seem that I have to find it on my book ...
+dounde [1d\]: if u have mood do it please
+dounde [1d\]: r u here?
+]
+(;B[bo]C[lll9p [4d\]: F6
+]
+(;W[en]
+;B[fn])
+(;W[fm]C[lll9p [4d\]: F6
+])
+(;W[fn]C[dounde [1d\]: sorry
+]))
+(;B[co]
+;W[dn]
+;B[em]
+;W[bn]
+;B[bo]
+;W[an]
+;B[cr]
+;W[fm]
+;B[en]
+;W[el]
+;B[dm]
+;W[dl]
+;B[cm]
+;W[cl]
+;B[bm])
+(;B[cr]
+;W[fn]
+;B[ch]C[lll9p [4d\]: W is good
+lll9p [4d\]:  that book said
+dounde [1d\]: why what u showed was bad for black before?
+lll9p [4d\]: bad net work
+dounde [1d\]: why c5 isnt good instead c2
+lll9p [4d\]: hi
+lll9p [4d\]: I will send it to your email a later
+]))
+(;B[do]
+;W[bp]
+;B[bo]
+;W[bq]
+;B[co]
+;W[fq]
+;B[dr]
+;W[cr])
+(;B[bp]
+;W[bq]C[lll9p [4d\]: formalized series of moves 
+dounde [1d\]: what do u mean?
+lll9p [4d\]: am i online?
+]
+;B[dr]
+;W[do]))
+(;B[do])
+(;B[gp]C[lll9p [4d\]: There 's formalized series of moves of  this
+dounde [1d\]: what u mean?
+dounde [1d\]: u mean joseki?
+lll9p [4d\]: yes
+dounde [1d\]: show me
+dounde [1d\]: please
+lll9p [4d\]: yes
+]
+;W[fq]
+;B[gq]
+;W[er]
+;B[fr]
+;W[eq]
+;B[do]
+;W[bp]
+;B[bo]
+;W[bq]
+;B[co]
+;W[bn]
+;B[ao]C[lll9p [4d\]: bad network
+dounde [1d\]: no problem.happy u come back
+]))))))

@@ -1,0 +1,199 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[2]KM[0.50]TM[60]OT[3x10 byo-yomi]
+PW[anglelll]PB[smeghead]WR[1k]BR[3k]DT[2007-03-17]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp]C[smeghead [3k\]: hello
+]RE[W+Time]
+;W[pq]WL[43.89]
+;B[dd]BL[56.63]
+;W[qf]WL[40.519]
+;B[nc]BL[54.582]
+;W[qk]WL[36.268]
+;B[cj]BL[49.405]
+;W[fq]WL[34.142]
+;B[er]BL[46.47]
+;W[fr]WL[29.818]
+;B[eq]BL[44.943]
+;W[fo]WL[27.996]
+;B[dn]BL[43.195]
+;W[jp]WL[23.836]
+;B[gc]BL[39.226]
+;W[po]WL[9.806]
+;B[jj]BL[35.435]
+;W[md]WL[10]OW[3]C[anglelll [1k?\]: ?
+]
+;B[mc]BL[27.844]C[smeghead [3k\]: hi
+]
+;W[kd]WL[10]OW[3]C[smeghead [3k\]: sorry
+smeghead [3k\]: dropped out
+]
+;B[lc]BL[8.5]
+;W[jf]WL[10]OW[3]
+;B[ld]BL[5.32]
+;W[le]WL[10]OW[3]
+;B[ke]BL[1.457]C[anglelll [1k?\]: you can't  did that
+]
+;W[kf]WL[10]OW[3]C[smeghead [3k\]: huh?
+]
+;B[je]BL[10]OB[3]
+;W[ie]WL[10]OW[3]
+;B[jd]BL[10]OB[3]
+;W[id]WL[10]OW[3]
+;B[jc]BL[10]OB[3]
+;W[if]WL[10]OW[3]
+;B[lf]BL[10]OB[3]
+;W[lg]WL[10]OW[3]
+;B[mf]BL[10]OB[3]
+;W[mg]WL[10]OW[3]
+;B[kg]BL[10]OB[3]
+;W[kh]WL[10]OW[3]
+;B[ng]BL[10]OB[3]
+;W[nf]WL[10]OW[3]
+;B[me]BL[10]OB[3]
+;W[jg]WL[10]OW[3]
+;B[nh]BL[10]OB[2]
+;W[of]WL[10]OW[3]C[anglelll [1k?\]: you are japenese?
+]
+;B[pi]BL[10]OB[2]
+;W[nj]WL[10]OW[3]C[smeghead [3k\]: no
+]
+;B[pk]BL[10]OB[2]
+;W[pl]WL[10]OW[3]
+;B[ok]BL[10]OB[2]
+;W[qj]WL[10]OW[3]
+;B[pg]BL[10]OB[2]C[anglelll [1k?\]: i hate japenese
+]
+;W[ml]WL[10]OW[3]C[smeghead [3k\]: that's nice
+]
+;B[qi]BL[10]OB[2]C[smeghead [3k\]: american i assume ?
+]
+;W[bd]WL[10]OW[3]
+;B[be]BL[10]OB[2]
+;W[ce]WL[10]OW[3]
+;B[cd]BL[10]OB[2]
+;W[bf]WL[10]OW[3]
+;B[bc]BL[10]OB[2]
+;W[ae]WL[10]OW[3]
+;B[ol]BL[10]OB[2]
+;W[pm]WL[10]OW[3]
+;B[mi]BL[10]OB[2]
+;W[lj]WL[10]OW[3]
+;B[li]BL[10]OB[2]
+;W[ki]WL[10]OW[3]
+;B[kj]BL[10]OB[2]
+;W[mj]WL[10]OW[3]
+;B[nm]BL[10]OB[2]
+;W[mm]WL[10]OW[3]
+;B[nn]BL[10]OB[2]
+;W[mn]WL[10]OW[3]
+;B[no]BL[10]OB[2]
+;W[hj]WL[10]OW[3]
+;B[ii]BL[10]OB[2]
+;W[hi]WL[10]OW[2]
+;B[il]BL[10]OB[2]
+;W[ik]WL[10]OW[2]
+;B[jm]BL[10]OB[1]
+;W[jk]WL[10]OW[2]
+;B[gl]BL[10]OB[1]
+;W[dk]WL[10]OW[1]
+;B[dj]BL[10]OB[1]
+;W[fk]WL[10]OW[1]
+;B[gk]BL[10]OB[1]
+;W[fj]WL[10]OW[1]
+;B[hk]BL[10]OB[1]
+;W[fl]WL[10]OW[1]
+;B[kk]BL[10]OB[1]
+;W[kl]WL[10]OW[1]
+;B[ij]BL[10]OB[1]
+;W[jl]WL[10]OW[1]
+;B[gj]BL[10]OB[1]
+;W[gi]WL[10]OW[1]
+;B[hm]BL[10]OB[1]
+;W[gm]WL[10]OW[1]
+;B[hl]BL[10]OB[1]
+;W[hn]WL[10]OW[1]
+;B[im]BL[10]OB[1]
+;W[in]WL[10]OW[1]
+;B[gn]BL[10]OB[1]
+;W[fm]WL[10]OW[1]
+;B[km]BL[10]OB[1]C[anglelll [1k?\]: i am chinese
+]
+;W[ll]WL[10]OW[1]
+;B[fi]BL[10]OB[1]C[smeghead [3k\]: ah
+]
+;W[fh]WL[10]OW[1]
+;B[ei]BL[10]OB[1]
+;W[gg]WL[10]OW[1]
+;B[eh]BL[10]OB[1]
+;W[eg]WL[10]OW[1]
+;B[dg]BL[10]OB[1]
+;W[ef]WL[10]OW[1]
+;B[df]BL[10]OB[1]
+;W[ch]WL[10]OW[1]
+;B[cg]BL[10]OB[1]
+;W[bg]WL[10]OW[1]
+;B[dh]BL[10]OB[1]
+;W[bi]WL[10]OW[1]
+;B[ci]BL[10]OB[1]
+;W[bh]WL[10]OW[1]
+;B[bj]BL[10]OB[1]
+;W[cf]WL[10]OW[1]
+;B[de]BL[10]OB[1]
+;W[ge]WL[10]OW[1]C[anglelll [1k?\]: american nice place
+]
+;B[mp]BL[10]OB[1]
+;W[lo]WL[10]OW[1]
+;B[kq]BL[10]OB[1]
+;W[jq]WL[10]OW[1]C[smeghead [3k\]: depends who you are
+]
+;B[kp]BL[10]OB[1]
+;W[ko]WL[10]OW[1]
+;B[en]BL[10]OB[1]
+;W[fn]WL[10]OW[1]
+;B[qp]BL[10]OB[1]
+;W[pp]WL[10]OW[1]
+;B[qq]BL[10]OB[1]
+;W[ro]WL[10]OW[1]
+;B[qo]BL[10]OB[1]C[anglelll [1k?\]: depends who you are__what?
+]
+;W[qn]WL[10]OW[1]
+;B[pr]BL[10]OB[1]
+;W[or]WL[10]OW[1]
+;B[qr]BL[10]OB[1]
+;W[nq]WL[10]OW[1]
+;B[rp]BL[10]OB[1]
+;W[sn]WL[10]OW[1]
+;B[sr]BL[10]OB[1]
+;W[qd]WL[10]OW[1]
+;B[qc]BL[10]OB[1]
+;W[rc]WL[10]OW[1]C[smeghead [3k\]: some may disagree with you
+]
+;B[pc]BL[10]OB[1]
+;W[re]WL[10]OW[1]C[anglelll [1k?\]: who?
+]
+;B[rg]BL[10]OB[1]C[anglelll [1k?\]: you?
+]
+;W[rb]WL[10]OW[1]C[smeghead [3k\]: .
+smeghead [3k\]: hmmm
+smeghead [3k\]: wow that's some crazy lag
+smeghead [3k\]: thanks for the game
+anglelll [1d\]: yes
+anglelll [1d\]: wait
+anglelll [1d\]: one more?
+smeghead [3k\]: well, i meant that people from the middle east may disagree
+smeghead [3k\]: and people from latin america may disagree
+smeghead [3k\]: and people from africa may disagree
+smeghead [3k\]: etc etc
+smeghead [3k\]: no, i think i'm lagging too much tonight :(
+anglelll [1d\]: my farther may be so
+smeghead [3k\]: may be so...? what?
+anglelll [1d\]: it's 19;0
+smeghead [3k\]: ???
+anglelll [1d\]: i am weak in english
+smeghead [3k\]: i don't understand
+anglelll [1d\]: sorry
+smeghead [3k\]: np :)
+anglelll [1d\]: my farther say you bad
+smeghead [3k\]: too much lag for me tonight :(
+smeghead [3k\]: me bad?
+smeghead [3k\]: how does he know me?
+anglelll [1d\]: he don't like  american 
+])

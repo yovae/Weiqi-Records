@@ -1,0 +1,26 @@
+\HS
+\[TYPE=0\]
+\[SZAUDIO=0\]
+\[GAMENAME=升降级对局\]
+\[GAMEDATE=2009年 2月13日 18:46:17\]
+\[GAMEPLACE=Tom对弈\]
+\[GAMECONDITION=分先: 黑棋贴3又3/4子\]
+\[GAMETIME=每方限时: 无\]
+\[GAMEWHITENAME=butcher007(4段)\]
+\[GAMEBLACKNAME=绝地英雄(4段)\]
+\[GAMERESULT=对局无效\]
+\[GAMETOTALNUM=总共 2手\]
+\[GAMECOMMENT=\]
+\[GAMEWHITENICK=butcher007\]
+\[GAMEWHITECOUNTRY=\]
+\[GAMEBLACKNICK=butcher007\]
+\[GAMEBLACKCOUNTRY=\]
+\[GAMETAG=S97,R0,D0,G75,W9,Z0,T20-3-0,C2009:02:13:18:46,I:butcher007,L:21,M:绝地英雄,N:21,A:butcher007,B:绝地英雄,J:2,K:2\]
+\HE
+\GS
+2 1 0
+3 0 &4
+INI 0 1 0 &4在403房间进行对局准备&2-&2室主 
+STO 0 2 1 16 3 
+STO 0 3 2 14 3 
+\GE

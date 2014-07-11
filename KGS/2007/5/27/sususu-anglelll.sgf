@@ -1,0 +1,281 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[6]KM[7.00]TM[60]OT[5x10 byo-yomi]
+PW[sususu]PB[anglelll]WR[8d]BR[2d]DT[2007-05-27]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][pd][dj][pj][dp][pp]RE[W+Resign]
+;W[qf]WL[57.935]
+;B[nc]BL[57.817]
+;W[dg]WL[54.786]
+;B[fd]BL[54.847]
+;W[pm]WL[54.041]C[anglelll [2d\]: hello
+]
+;B[np]BL[50.707]
+;W[kq]WL[49.921]
+;B[iq]BL[47.369]
+;W[lm]WL[48.895]C[anglelll [2d\]: where are you from?
+]
+;B[ko]BL[31.409]C[sususu [8d\]: japen
+]
+;W[lo]WL[38.569]
+;B[lp]BL[28.843]
+;W[kp]WL[37.088]
+;B[lq]BL[26.505]
+;W[lr]WL[34.425]
+;B[mr]BL[22.918]
+;W[kr]WL[33.764]
+;B[jo]BL[9.942]
+;W[ir]WL[32.563]
+;B[hq]BL[4.646]
+;W[hr]WL[30.386]
+;B[gq]BL[3.173]
+;W[mo]WL[29.037]
+;B[mp]BL[10]OB[5]
+;W[gr]WL[27.806]
+;B[fr]BL[10]OB[5]C[BadPlay [-\]: sususu spoke?
+]
+;W[fq]WL[23.974]
+;B[er]BL[10]OB[5]
+;W[ip]WL[20.368]
+;B[jp]BL[10]OB[5]
+;W[jq]WL[17.049]C[BadPlay [-\]: O.o
+]
+;B[ho]BL[10]OB[5]C[shodansoon [4d\]: now i'm speechless
+]
+;W[js]WL[13.532]
+;B[nm]BL[10]OB[5]
+;W[on]WL[9.071]
+;B[nn]BL[10]OB[5]
+;W[no]WL[7.368]
+;B[oo]BL[10]OB[5]
+;W[mm]WL[5.535]
+;B[pn]BL[10]OB[5]C[Home [2k\]: whoa!
+]
+;W[om]WL[2.662]C[amni [1k\]: i have to rethink my entire value system
+]
+;B[nl]BL[10]OB[5]
+;W[qn]WL[10]OW[5]
+;B[po]BL[10]OB[5]
+;W[ql]WL[10]OW[5]C[LocalBand [8d?\]: someone hacked his account lol.
+]
+;B[nj]BL[10]OB[5]
+;W[mk]WL[10]OW[5]
+;B[ol]BL[10]OB[5]C[BadPlay [-\]: lol
+]
+;W[rp]WL[10]OW[5]
+;B[qq]BL[10]OB[5]
+;W[rq]WL[10]OW[5]
+;B[rr]BL[10]OB[5]
+;W[pr]WL[10]OW[5]
+;B[qr]BL[10]OB[5]
+;W[nr]WL[10]OW[5]
+;B[nq]BL[10]OB[5]C[sanlea23: then other 8ds are in suspect
+]
+;W[oq]WL[10]OW[5]
+;B[ns]BL[10]OB[5]C[Stormer [1d\]: and now we know he is from japan!
+]
+;W[os]WL[10]OW[5]
+;B[or]BL[10]OB[5]
+;W[fp]WL[10]OW[5]
+;B[go]BL[10]OB[5]
+;W[nr]WL[10]OW[5]
+;B[qm]BL[10]OB[5]
+;W[rm]WL[10]OW[5]
+;B[or]BL[10]OB[5]C[sanlea23: mystery is gone
+]
+;W[dq]WL[10]OW[5]C[BadPlay [-\]: japen it seems ^^
+]
+;B[eq]BL[10]OB[5]
+;W[nr]WL[10]OW[5]
+;B[pl]BL[10]OB[5]
+;W[qm]WL[10]OW[5]
+;B[or]BL[10]OB[5]
+;W[ep]WL[10]OW[5]
+;B[cq]BL[10]OB[5]
+;W[nr]WL[10]OW[5]
+;B[mn]BL[10]OB[5]
+;W[ln]WL[10]OW[5]
+;B[or]BL[10]OB[5]
+;W[do]WL[10]OW[5]
+;B[dr]BL[10]OB[5]
+;W[nr]WL[10]OW[5]C[sanlea23: yeah where is japen is still a mystery
+]
+;B[ml]BL[10]OB[5]
+;W[ms]WL[10]OW[5]
+;B[ll]BL[10]OB[5]
+;W[op]WL[10]OW[5]
+;B[km]BL[10]OB[5]
+;W[mq]WL[10]OW[5]C[FightGo [1d\]: ouch
+]
+;B[fg]BL[10]OB[5]
+;W[cp]WL[10]OW[5]
+;B[dq]BL[10]OB[5]
+;W[bo]WL[10]OW[5]
+;B[eo]BL[10]OB[5]
+;W[fo]WL[10]OW[5]C[sanlea23: b is fallen apart
+]
+;B[bp]BL[10]OB[5]
+;W[en]WL[10]OW[5]
+;B[co]BL[10]OB[5]
+;W[cn]WL[10]OW[5]
+;B[of]BL[10]OB[5]
+;W[kn]WL[10]OW[5]
+;B[jn]BL[10]OB[5]
+;W[jm]WL[10]OW[5]
+;B[kl]BL[10]OB[5]
+;W[im]WL[10]OW[5]
+;B[ik]BL[10]OB[5]
+;W[gm]WL[10]OW[5]
+;B[hl]BL[10]OB[5]
+;W[hm]WL[10]OW[5]
+;B[eh]BL[10]OB[5]
+;W[qh]WL[10]OW[5]
+;B[pg]BL[10]OB[5]
+;W[rd]WL[10]OW[5]
+;B[ce]BL[10]OB[5]
+;W[qc]WL[10]OW[5]
+;B[qg]BL[10]OB[5]C[Feanor [4k\]: nothing killable left, though
+]
+;W[rg]WL[10]OW[5]C[Home [2k\]: can B keep the center?
+]
+;B[rh]BL[10]OB[5]
+;W[rf]WL[10]OW[5]
+;B[pc]BL[10]OB[5]
+;W[fj]WL[10]OW[5]C[shodansoon [4d\]: at least he got d13...
+FightGo [1d\]: no
+]
+;B[fk]BL[10]OB[5]C[Stormer [1d\]: w will invade top, if b kills he wins
+]
+;W[ek]WL[10]OW[5]
+;B[ej]BL[10]OB[5]
+;W[gk]WL[10]OW[5]C[sanlea23: not killable but invadable
+]
+;B[fl]BL[10]OB[5]
+;W[gl]WL[10]OW[5]C[wuwei [6k\]: sususu will live there, like in a spa
+]
+;B[gj]BL[10]OB[5]
+;W[hj]WL[10]OW[5]
+;B[fi]BL[10]OB[5]
+;W[ij]WL[10]OW[5]
+;B[hi]BL[10]OB[5]
+;W[ii]WL[10]OW[5]
+;B[jk]BL[10]OB[5]C[sanlea23: b's center is gone
+]
+;W[hk]WL[10]OW[5]C[Feanor [4k\]: heh... he seemed much more interested in killing so far
+]
+;B[ih]BL[10]OB[5]C[BadPlay [-\]: easy life , big and weak moyo
+]
+;W[jh]WL[10]OW[5]
+;B[ji]BL[10]OB[5]
+;W[fb]WL[10]OW[5]
+;B[hb]BL[10]OB[5]
+;W[cc]WL[10]OW[5]
+;B[gc]BL[10]OB[5]
+;W[ec]WL[10]OW[5]
+;B[bd]BL[10]OB[5]
+;W[bc]WL[10]OW[5]
+;B[db]BL[10]OB[5]
+;W[dc]WL[10]OW[5]
+;B[ed]BL[10]OB[5]
+;W[mc]WL[10]OW[5]
+;B[nb]BL[10]OB[5]
+;W[jc]WL[10]OW[5]
+;B[md]BL[10]OB[5]C[Feanor [4k\]: this tsuke was strange
+]
+;W[ld]WL[10]OW[5]
+;B[me]BL[10]OB[5]
+;W[jg]WL[10]OW[5]
+;B[hh]BL[10]OB[5]
+;W[le]WL[10]OW[5]
+;B[ie]BL[10]OB[5]
+;W[mf]WL[10]OW[5]C[horacelamb [2d\]: unexpected, yes
+]
+;B[kf]BL[10]OB[5]
+;W[jf]WL[10]OW[5]C[horacelamb [2d\]: but who knows
+]
+;B[je]BL[10]OB[5]
+;W[ke]WL[10]OW[5]
+;B[lg]BL[10]OB[5]C[horacelamb [2d\]: maybe it was brilliant
+]
+;W[nf]WL[10]OW[5]
+;B[oe]BL[10]OB[5]C[shuki: [9p\]:my stud is leading.
+Feanor [4k\]: maybe
+]
+;W[mh]WL[10]OW[5]
+;B[lh]BL[10]OB[5]C[Feanor [4k\]: I couldn't tell
+ImNoSensei [-\]: ...
+]
+;W[ki]WL[10]OW[5]
+;B[li]BL[10]OB[5]
+;W[jj]WL[10]OW[5]
+;B[if]BL[10]OB[5]C[horacelamb [2d\]: he got enough
+]
+;W[qi]WL[10]OW[5]
+;B[qj]BL[10]OB[5]C[horacelamb [2d\]: or as much as could be expected at least
+]
+;W[ri]WL[10]OW[5]
+;B[bn]BL[10]OB[5]
+;W[cp]WL[10]OW[5]C[horacelamb [2d\]: that should be enough to win
+]
+;B[ro]BL[10]OB[5]C[FightGo [1d\]: maybe b will win
+]
+;W[qo]WL[10]OW[5]
+;B[co]BL[10]OB[5]
+;W[mb]WL[10]OW[5]C[horacelamb [2d\]: nah
+]
+;B[ao]BL[10]OB[5]
+;W[lf]WL[10]OW[5]
+;B[kg]BL[10]OB[5]
+;W[ne]WL[10]OW[5]
+;B[nd]BL[10]OB[5]
+;W[kb]WL[10]OW[5]
+;B[ng]BL[10]OB[5]
+;W[mg]WL[10]OW[5]
+;B[mi]BL[10]OB[5]
+;W[oh]WL[10]OW[5]
+;B[og]BL[10]OB[5]
+;W[nh]WL[10]OW[5]
+;B[qb]BL[10]OB[5]C[FightGo [1d\]: kill white
+]
+;W[rb]WL[10]OW[5]
+;B[qa]BL[10]OB[5]C[FightGo [1d\]: doh
+]
+;W[lj]WL[10]OW[5]C[FightGo [1d\]: it's over now
+shuki: [9p\]: no
+Feanor [4k\]: kill himself :)
+]
+;B[fm]BL[10]OB[5]C[Feanor [4k\]: n11 dead
+]
+;W[fn]WL[10]OW[5]
+;B[dm]BL[10]OB[5]
+;W[em]WL[10]OW[5]
+;B[el]BL[10]OB[5]
+;W[dl]WL[10]OW[5]C[horacelamb [2d\]: haha wow
+]
+;B[dk]BL[10]OB[5]
+;W[cl]WL[10]OW[5]C[horacelamb [2d\]: black is sure having problems
+]
+;B[lk]BL[10]OB[5]
+;W[kj]WL[10]OW[5]
+;B[mj]BL[10]OB[5]
+;W[oi]WL[10]OW[5]
+;B[rj]BL[10]OB[5]
+;W[oj]WL[10]OW[5]
+;B[ok]BL[10]OB[5]C[FightGo [1d\]: cut
+]
+;W[ib]WL[10]OW[5]C[horacelamb [2d\]: the end
+horacelamb [2d\]: no need hahaha
+FightGo [1d\]: G8
+anglelll [2d\]: haha
+Feanor [4k\]: wow
+horacelamb [2d\]: angle probably just had a bad game
+anglelll [2d\]: haha
+anglelll [2d\]: yes
+Toge [13k\]: Did w actually manage to kill the whole center?
+horacelamb [2d\]: yes he did
+Stormer [1d\]: yes
+sanlea23: yes
+anglelll [2d\]: i am chinese
+anglelll [2d\]: student
+anglelll [2d\]: my god
+anglelll [2d\]: - Speak Softly, Love
+anglelll [2d\]:  When You Wish Upon A Star
+anglelll [2d\]: good bye!
+])

@@ -1,0 +1,264 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[3]KM[0.50]TM[0]OT[3x30 byo-yomi]
+PW[saodiseng]PB[anglelll]WR[5d]BR[2d]DT[2010-03-21]PC[The KGS Go Server at http://www.gokgs.com/]AB[pd][dp][pp]C[saodiseng [5d\]: hi
+]RE[B+Resign]
+;W[cd]WL[30]OW[3]C[anglelll [2d\]: hi
+]
+;B[ed]BL[30]OB[3]
+;W[hd]WL[30]OW[3]
+;B[dg]BL[30]OB[3]
+;W[ef]WL[30]OW[3]
+;B[de]BL[30]OB[3]
+;W[df]WL[30]OW[3]
+;B[ce]BL[30]OB[3]
+;W[cf]WL[30]OW[3]
+;B[bf]BL[30]OB[3]
+;W[bd]WL[30]OW[3]
+;B[be]BL[30]OB[3]
+;W[cg]WL[30]OW[3]
+;B[dc]BL[30]OB[3]
+;W[fc]WL[30]OW[3]
+;B[bg]BL[30]OB[3]
+;W[ch]WL[30]OW[3]
+;B[fd]BL[30]OB[3]
+;W[gd]WL[30]OW[3]
+;B[fb]BL[30]OB[3]
+;W[gc]WL[30]OW[3]
+;B[eb]BL[30]OB[3]
+;W[qf]WL[30]OW[3]
+;B[qh]BL[30]OB[3]
+;W[of]WL[30]OW[3]
+;B[nc]BL[30]OB[3]
+;W[pi]WL[30]OW[3]
+;B[qi]BL[30]OB[3]
+;W[pj]WL[30]OW[3]
+;B[ph]BL[30]OB[3]
+;W[oh]WL[30]OW[3]
+;B[qj]BL[30]OB[3]
+;W[pk]WL[30]OW[3]
+;B[ql]BL[30]OB[3]
+;W[om]WL[30]OW[3]
+;B[qm]BL[30]OB[3]
+;W[og]WL[30]OW[3]
+;B[gf]BL[30]OB[3]
+;W[fe]WL[30]OW[3]
+;B[if]BL[30]OB[3]
+;W[lc]WL[30]OW[3]
+;B[jd]BL[30]OB[3]
+;W[jc]WL[30]OW[3]
+;B[ld]BL[30]OB[3]
+;W[kd]WL[30]OW[3]
+;B[ke]BL[30]OB[3]
+;W[kc]WL[30]OW[3]
+;B[le]BL[30]OB[3]
+;W[kg]WL[30]OW[3]
+;B[ih]BL[30]OB[3]
+;W[md]WL[30]OW[3]
+;B[mc]BL[30]OB[3]
+;W[nd]WL[30]OW[3]
+;B[od]BL[30]OB[3]
+;W[mf]WL[30]OW[3]
+;B[ic]BL[30]OB[3]
+;W[id]WL[30]OW[3]
+;B[je]BL[30]OB[3]
+;W[ib]WL[30]OW[3]
+;B[ji]BL[30]OB[3]
+;W[qc]WL[30]OW[3]
+;B[qd]BL[30]OB[3]
+;W[oc]WL[30]OW[3]
+;B[pc]BL[30]OB[3]
+;W[ob]WL[30]OW[3]
+;B[pb]BL[30]OB[3]
+;W[mb]WL[30]OW[3]
+;B[cn]BL[30]OB[3]
+;W[jq]WL[30]OW[3]
+;B[nq]BL[30]OB[3]
+;W[gq]WL[30]OW[3]
+;B[eq]BL[30]OB[3]
+;W[cl]WL[30]OW[3]C[DragonYao [1k\]: e3
+]
+;B[hp]BL[30]OB[3]
+;W[gp]WL[30]OW[3]
+;B[ho]BL[30]OB[3]
+;W[hq]WL[30]OW[3]
+;B[cj]BL[30]OB[3]
+;W[dj]WL[30]OW[3]
+;B[di]BL[30]OB[3]
+;W[dk]WL[30]OW[3]C[DragonYao [1k\]: some aji at c3 now
+]
+;B[ci]BL[30]OB[3]
+;W[ei]WL[30]OW[3]
+;B[bh]BL[30]OB[3]C[Tetriste [-\]: g15?
+]
+;W[dh]WL[30]OW[3]
+;B[fi]BL[30]OB[3]
+;W[ej]WL[30]OW[3]
+;B[fh]BL[30]OB[3]
+;W[gk]WL[30]OW[3]
+;B[eh]BL[30]OB[3]
+;W[ge]WL[30]OW[3]
+;B[el]BL[30]OB[3]
+;W[fj]WL[30]OW[3]
+;B[il]BL[30]OB[3]
+;W[ik]WL[30]OW[3]
+;B[jk]BL[30]OB[3]
+;W[ij]WL[30]OW[3]C[DragonYao [1k\]: can't help byt think white should have just connected
+]
+;B[jj]BL[30]OB[3]
+;W[gi]WL[30]OW[3]C[DragonYao [1k\]: but*
+Tetriste [-\]: me too
+]
+;B[gh]BL[30]OB[3]
+;W[jl]WL[30]OW[3]
+;B[im]BL[30]OB[3]C[DragonYao [1k\]: even if  he is
+SLMaccabee [3k\]: guess he though could win like that
+SLMaccabee [3k\]: *couldn't
+DragonYao [1k\]: thsi is too risky
+]
+;W[kl]WL[30]OW[3]
+;B[hi]BL[30]OB[3]C[Tetriste [-\]: f7?
+]
+;W[gm]WL[30]OW[3]
+;B[gj]BL[30]OB[3]
+;W[hk]WL[30]OW[3]C[SLMaccabee [3k\]: d7
+]
+;B[kn]BL[30]OB[3]C[Tetriste [-\]: j7 surrounded
+]
+;W[dm]WL[30]OW[3]
+;B[fn]BL[30]OB[3]C[Tetriste [-\]: lol -.-
+]
+;W[dn]WL[30]OW[3]
+;B[co]BL[30]OB[3]
+;W[gn]WL[30]OW[3]
+;B[go]BL[30]OB[3]
+;W[fo]WL[30]OW[3]
+;B[eo]BL[30]OB[3]
+;W[fp]WL[30]OW[3]C[Tennou [?\]: maybe he wants to kill d4 too
+]
+;B[fl]BL[30]OB[3]C[Tetriste [-\]: wait wat
+]
+;W[fm]WL[30]OW[3]
+;B[en]BL[30]OB[3]
+;W[em]WL[30]OW[3]C[Tetriste [-\]: ?????
+Tennou [?\]: this is madness
+]
+;B[kp]BL[30]OB[3]C[PAG2 [-\]: i have trouble understanding that 5d's moves :)
+Tetriste [-\]: why not e6 instead of f7?
+SLMaccabee [3k\]: k5
+]
+;W[do]WL[30]OW[3]
+;B[ep]BL[30]OB[3]
+;W[in]WL[30]OW[3]
+;B[hn]BL[30]OB[3]C[SLMaccabee [3k\]: squeeze?
+]
+;W[hm]WL[30]OW[3]
+;B[jn]BL[30]OB[3]
+;W[cp]WL[30]OW[3]
+;B[cq]BL[30]OB[3]
+;W[bp]WL[30]OW[3]
+;B[bq]BL[30]OB[3]
+;W[bn]WL[30]OW[3]
+;B[bo]BL[30]OB[3]
+;W[cm]WL[30]OW[3]
+;B[ap]BL[30]OB[3]C[Tetriste [-\]: 0.o
+]
+;W[bj]WL[30]OW[3]
+;B[bi]BL[30]OB[3]
+;W[am]WL[30]OW[3]C[Tetriste [-\]: a6?
+]
+;B[bk]BL[30]OB[3]
+;W[bl]WL[30]OW[3]C[Tennou [?\]: so i have to play like this to become 5d?
+]
+;B[an]BL[30]OB[3]
+;W[ao]WL[30]OW[3]C[DragonYao [1k\]: nice ko
+Tetriste [-\]: white had a6 to live instead of a7 no?
+DragonYao [1k\]: white looked so dead
+]
+;B[ak]BL[30]OB[3]
+;W[ck]WL[30]OW[3]C[New2Go [7k\]: why was white dead?
+DragonYao [1k\]: a5 b9
+]
+;B[aj]BL[30]OB[3]C[DragonYao [1k\]: a6 b9
+]
+;W[kq]WL[30]OW[3]C[hoangquynh [7k\]: nice move
+patrickn [5k\]: what why not a8
+]
+;B[lp]BL[30]OB[3]C[New2Go [7k\]: isnt w still dead? 0.0
+hoangquynh [7k\]: what for
+]
+;W[hg]WL[30]OW[3]
+;B[hf]BL[30]OB[3]C[patrickn [5k\]: w can ko
+New2Go [7k\]: w is still dead...
+DragonYao [1k\]: white is still ko
+Tetriste [-\]: a6 b9 b8?
+]
+;W[jg]WL[30]OW[3]
+;B[ig]BL[30]OB[3]C[DragonYao [1k\]: b8 a8
+DragonYao [1k\]: no eye
+]
+;W[hj]WL[30]OW[3]C[New2Go [7k\]: B9 is already played....
+Tetriste [-\]: b needs to kill stone?
+]
+;B[gi]BL[30]OB[3]C[PAG2 [-\]: mmh.. wonder why B doesn't play a8.. 
+DragonYao [1k\]: we're talking about a6 instead of a7
+New2Go [7k\]: cuz its already dead..
+Tetriste [-\]: oh nvm
+Tetriste [-\]: c9 is not played
+patrickn [5k\]: its a8
+patrickn [5k\]: lol
+New2Go [7k\]: W is dead ...
+DragonYao [1k\]: we are talking about before...
+]
+;W[lk]WL[30]OW[3]C[Tennou [?\]: so now hes trying for semeai
+New2Go [7k\]: whats semeai?
+]
+;B[lj]BL[30]OB[3]C[DragonYao [1k\]: capture race
+New2Go [7k\]: :o
+SLMaccabee [3k\]: white has a bunch of local ko threats....
+]
+;W[mk]WL[30]OW[3]C[SLMaccabee [3k\]: does he not have any elsewhere?
+]
+;B[lh]BL[30]OB[3]
+;W[lg]WL[30]OW[3]C[patrickn [5k\]: w a8 is ko, what am i missing here
+PAG2 [-\]: semeai looks like a good idea though.. 
+]
+;B[kk]BL[30]OB[3]C[patrickn [5k\]: why isnt he koing
+]
+;W[ki]WL[30]OW[3]
+;B[kh]BL[30]OB[3]C[Tetriste [-\]: yeah a8 is ko
+]
+;W[jh]WL[30]OW[3]C[DragonYao [1k\]: white knows he can't win
+Tetriste [-\]: why not
+DragonYao [1k\]: if black loses the ko
+]
+;B[ii]BL[30]OB[3]
+;W[li]WL[30]OW[3]C[Tennou [?\]: he wants to kill everything
+DragonYao [1k\]: black has many more points
+]
+;B[ll]BL[30]OB[3]C[DragonYao [1k\]: + a ko threat would be too much
+]
+;W[lm]WL[30]OW[3]C[mechelle8: nice moves
+DragonYao [1k\]: + an ignored ko threat i mean
+]
+;B[mj]BL[30]OB[3]C[saodiseng [5d\]: thx
+New2Go [7k\]: lol?
+hoangquynh [7k\]: very nice
+anglelll [2d\]: thx
+SLMaccabee [3k\]: b too much cash already?
+godgo001 [-\]: thx
+anglelll [2d\]: gg
+New2Go [7k\]: b won/
+New2Go [7k\]: npot everyday u see a 2d beat a 5d by 100points.
+DragonYao [1k\]: not 100 pts
+New2Go [7k\]: yea
+DragonYao [1k\]: white could win the ko
+w00t [2d\]: 100 point means not much
+DragonYao [1k\]: but still lsoe the game
+New2Go [7k\]: how can he win?
+DragonYao [1k\]: he can't win
+w00t [2d\]: b live w dead
+New2Go [7k\]: exactly.
+DragonYao [1k\]: but c7 could live
+DragonYao [1k\]: i never said he would win
+DragonYao [1k\]: just not lose by 100 pts
+])
